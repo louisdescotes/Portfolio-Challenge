@@ -2,7 +2,7 @@
 https://louisdescotes.github.io/Portfolio-Challenge/index.html
 
 # Portfolio-Challenge
-Un portfolio créer en 2 semaine, challenge lancé par le serveur discord Le Repaire du Web
+Un portfolio crée en 2 semaine, challenge lancé par le serveur discord Le Repaire du Web
 
 ## Consignes
 Votre travail doit être ORIGINAL et UNIQUE, autant au niveau du DESIGN que du CODE.
